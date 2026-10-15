@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\bin\Debug\MP14-EdgeDetectionForGrayImage.exe.config
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\bin\Debug\MP14-EdgeDetectionForGrayImage.exe
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\bin\Debug\MP14-EdgeDetectionForGrayImage.pdb
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14-EdgeDetectionForGrayImage.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14_EdgeDetectionForGrayImage.Form1.resources
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14_EdgeDetectionForGrayImage.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14-EdgeDetectionForGrayImage.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14-EdgeDetectionForGrayImage.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14-EdgeDetectionForGrayImage.exe
+C:\Users\DELL\source\repos\MP14-EdgeDetectionForGrayImage\MP14-EdgeDetectionForGrayImage\obj\Debug\MP14-EdgeDetectionForGrayImage.pdb

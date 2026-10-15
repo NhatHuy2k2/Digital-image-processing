@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\bin\Debug\MP11-ColorImageSmoothing.exe.config
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\bin\Debug\MP11-ColorImageSmoothing.exe
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\bin\Debug\MP11-ColorImageSmoothing.pdb
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11-ColorImageSmoothing.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.Form1.resources
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11-ColorImageSmoothing.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11-ColorImageSmoothing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11-ColorImageSmoothing.exe
+C:\Users\DELL\source\repos\MP11-ColorImageSmoothing\MP11-ColorImageSmoothing\obj\Debug\MP11-ColorImageSmoothing.pdb

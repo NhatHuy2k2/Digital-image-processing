@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\bin\Debug\MP06-RGB2CMYK.exe.config
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\bin\Debug\MP06-RGB2CMYK.exe
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\bin\Debug\MP06-RGB2CMYK.pdb
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06_RGB2CMYK.Form1.resources
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06_RGB2CMYK.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06-RGB2CMYK.exe
+C:\Users\DELL\source\repos\MP06-RGB2CMYK\MP06-RGB2CMYK\obj\Debug\MP06-RGB2CMYK.pdb

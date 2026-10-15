@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\bin\Debug\MP10-RGB2YCrCb.exe.config
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\bin\Debug\MP10-RGB2YCrCb.exe
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\bin\Debug\MP10-RGB2YCrCb.pdb
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Form1.resources
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10-RGB2YCrCb.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10-RGB2YCrCb.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10-RGB2YCrCb.exe
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10-RGB2YCrCb.pdb
+C:\Users\DELL\source\repos\MP10-RGB2YCrCb\MP10-RGB2YCrCb\obj\Debug\MP10-RGB2YCrCb.csprojAssemblyReference.cache

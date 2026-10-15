@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\bin\Debug\MP12-ColorImageSharpening.exe.config
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\bin\Debug\MP12-ColorImageSharpening.exe
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\bin\Debug\MP12-ColorImageSharpening.pdb
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.Form1.resources
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12-ColorImageSharpening.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12-ColorImageSharpening.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12-ColorImageSharpening.exe
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12-ColorImageSharpening.pdb
+C:\Users\DELL\source\repos\MP12-ColorImageSharpening\MP12-ColorImageSharpening\obj\Debug\MP12-ColorImageSharpening.csprojAssemblyReference.cache

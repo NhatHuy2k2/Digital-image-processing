@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\bin\Debug\MP08-RGB2HSV.exe.config
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\bin\Debug\MP08-RGB2HSV.exe
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\bin\Debug\MP08-RGB2HSV.pdb
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08-RGB2HSV.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08_RGB2HSV.Form1.resources
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08_RGB2HSV.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08-RGB2HSV.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08-RGB2HSV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08-RGB2HSV.exe
+C:\Users\DELL\source\repos\MP08-RGB2HSV\MP08-RGB2HSV\obj\Debug\MP08-RGB2HSV.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\bin\Debug\MP09-RGB2XYZ.exe.config
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\bin\Debug\MP09-RGB2XYZ.exe
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\bin\Debug\MP09-RGB2XYZ.pdb
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Form1.resources
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09-RGB2XYZ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09-RGB2XYZ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09-RGB2XYZ.exe
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09-RGB2XYZ.pdb
+C:\Users\DELL\source\repos\MP09-RGB2XYZ\MP09-RGB2XYZ\obj\Debug\MP09-RGB2XYZ.csprojAssemblyReference.cache

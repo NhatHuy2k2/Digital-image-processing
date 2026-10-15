@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02-TachAnhMauRGB.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02_TachAnhMauRGB.Form1.resources
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02_TachAnhMauRGB.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02-TachAnhMauRGB.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02-TachAnhMauRGB.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\bin\Debug\MP02-TachAnhMauRGB.exe.config
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\bin\Debug\MP02-TachAnhMauRGB.exe
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\bin\Debug\MP02-TachAnhMauRGB.pdb
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02-TachAnhMauRGB.exe
+C:\Users\DELL\source\repos\MP02-TachAnhMauRGB\MP02-TachAnhMauRGB\obj\Debug\MP02-TachAnhMauRGB.pdb

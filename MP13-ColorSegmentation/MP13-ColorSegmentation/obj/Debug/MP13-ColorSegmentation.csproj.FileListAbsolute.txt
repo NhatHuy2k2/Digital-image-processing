@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\bin\Debug\MP13-ColorSegmentation.exe.config
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\bin\Debug\MP13-ColorSegmentation.exe
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\bin\Debug\MP13-ColorSegmentation.pdb
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13-ColorSegmentation.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13_ColorSegmentation.Form1.resources
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13_ColorSegmentation.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13-ColorSegmentation.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13-ColorSegmentation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13-ColorSegmentation.exe
+C:\Users\DELL\source\repos\MP13-ColorSegmentation\MP13-ColorSegmentation\obj\Debug\MP13-ColorSegmentation.pdb

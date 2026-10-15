@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP15-EdgeDetectionForColorImage", "MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage.csproj", "{E55C2970-D857-4066-A19E-DF1081B482FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55C2970-D857-4066-A19E-DF1081B482FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55C2970-D857-4066-A19E-DF1081B482FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55C2970-D857-4066-A19E-DF1081B482FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55C2970-D857-4066-A19E-DF1081B482FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D1FFFF-175A-4F6C-B41F-DE747E8C98C5}
+	EndGlobalSection
+EndGlobal

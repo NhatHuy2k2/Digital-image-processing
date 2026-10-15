@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06-10.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06_10.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06-10.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06-10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP06-10\MP06-10\bin\Debug\MP06-10.exe.config
+C:\Users\DELL\source\repos\MP06-10\MP06-10\bin\Debug\MP06-10.exe
+C:\Users\DELL\source\repos\MP06-10\MP06-10\bin\Debug\MP06-10.pdb
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06_10.Form1.resources
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06-10.exe
+C:\Users\DELL\source\repos\MP06-10\MP06-10\obj\Debug\MP06-10.pdb

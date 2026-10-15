@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\bin\Debug\MP15-EdgeDetectionForColorImage.exe.config
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\bin\Debug\MP15-EdgeDetectionForColorImage.exe
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\bin\Debug\MP15-EdgeDetectionForColorImage.pdb
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15-EdgeDetectionForColorImage.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15_EdgeDetectionForColorImage.Form1.resources
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15_EdgeDetectionForColorImage.Properties.Resources.resources
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15-EdgeDetectionForColorImage.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15-EdgeDetectionForColorImage.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15-EdgeDetectionForColorImage.exe
+C:\Users\DELL\source\repos\MP15-EdgeDetectionForColorImage\MP15-EdgeDetectionForColorImage\obj\Debug\MP15-EdgeDetectionForColorImage.pdb
